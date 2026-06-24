@@ -19,6 +19,9 @@ app/build/
 .externalNativeBuild/
 .cxx/
 
+# Claude Code
+.claude/
+
 # macOS
 .DS_Store
 **/.DS_Store
