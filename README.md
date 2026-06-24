@@ -106,7 +106,7 @@ app/src/main/java/com/example/unitconverrter/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/UnitConverter.git
+   git clone https://github.com/petrakip/UnitConverter.git
    ```
 2. Open the project in **Android Studio Hedgehog or newer**.
 3. Let Gradle sync finish.
