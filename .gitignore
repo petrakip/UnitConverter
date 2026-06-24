@@ -1,0 +1,38 @@
+# Built outputs
+*.iml
+.gradle/
+/local.properties
+/build/
+/captures/
+app/build/
+
+# Android Studio / IntelliJ IDEA
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/deploymentTargetSelector.xml
+/.idea/deviceManager.xml
+/.idea/.gitignore
+.externalNativeBuild/
+.cxx/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Kotlin
+*.class
+*.kotlin_module
+
+# Signing & secrets
+*.jks
+*.keystore
+keystore.properties
+google-services.json
+
+# Gradle caches
+.gradle/
+gradle/wrapper/gradle-wrapper.jar

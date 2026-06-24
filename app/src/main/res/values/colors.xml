@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="ic_launcher_background">#F8FAFC</color>
+
+    <color name="length_background">#EEE9FF</color>
+    <color name="mass_background">#EAF8F1</color>
+    <color name="temperature_background">#FFF0EB</color>
+    <color name="area_background">#FFF5E3</color>
+    <color name="volume_background">#E8FAFD</color>
+    <color name="speed_background">#EDF4FF</color>
+    <color name="time_background">#F1ECFF</color>
+    <color name="energy_background">#FFF4DF</color>
+    <color name="power_background">#FFF1E3</color>
+    <color name="data_background">#EEF1FF</color>
+    <color name="fuel_background">#FDECF5</color>
+    <color name="angle_background">#F3EEFF</color>
+</resources>
